@@ -26,7 +26,7 @@ namespace VinSolutions
             while (true)
             {
 
-                Console.WriteLine("Enter Word:");               
+                Console.WriteLine("Enter Sentence:");               
 
                 Console.WriteLine($"Parsed Output: { ParseInput(Console.ReadLine()) } \n");
 
